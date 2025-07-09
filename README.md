@@ -7,7 +7,7 @@
 
 ## 💻 About Me
 
-Python-first automation developer specializing in transforming complex back-office workflows into streamlined, error-free processes. Passionate game developer experienced with Unity and Godot, and an enthusiastic coding mentor dedicated to engaging educational experiences.
+Python-first automation developer specializing in reducing tedious back-office labour into efficient processes. Passionate game developer experienced with Unity and Godot, and an enthusiastic coding mentor dedicated to engaging educational experiences.
 
 ---
 
