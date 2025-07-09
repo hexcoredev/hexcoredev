@@ -51,7 +51,7 @@ Python-first automation developer specializing in reducing tedious back-office l
 
 **Stefan Cel Mare University of Suceava**
 
-**Oct 2016 – Jul 2027** | Suceava, Romania
+**Oct 2016 – Jul 2026** | Suceava, Romania
 
 * [Website](https://fiesc.usv.ro/)
 
