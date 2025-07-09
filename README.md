@@ -38,7 +38,7 @@ Python-first automation developer specializing in transforming complex back-offi
 **Apr 2024 – Jan 2025** | Falticeni, Romania
 
 * Automated critical document workflows (PDF generation, invoicing, contract templating).
-* Reduced lead-to-close process time from 20 minutes to 5 minutes (4× improvement).
+* Reduced lead-to-close process time from 60 minutes to 15 minutes (4× improvement).
 * Implemented automation reducing manual data entry errors significantly.
 
 **Tools & Skills:** Python scripting, SQLite, WordPress, Elementor, Macro-key automation, Google Workspace administration.
